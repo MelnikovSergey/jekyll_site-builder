@@ -1,0 +1,32 @@
+{
+  "name": "polytechnix",
+  "version": "1.0.0",
+  "description": "My personal blog (final HTML formatting)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelnikovSergey"
+  },
+  "keywords": [
+    "project",
+    "assembly",
+    "projectassembly"
+  ],
+  "author": "Melnikov Sergey",
+  "license": "MIT",
+  "devDependencies": {
+    "del": "^5.1.0",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-diffable-html": "^1.1.5",
+    "gulp-format-html": "^1.2.5",
+    "gulp-uglify": "^3.0.2"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}

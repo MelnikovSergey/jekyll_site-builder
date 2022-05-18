@@ -1,0 +1,29 @@
+{
+  "name": "polytechnix",
+  "version": "1.0.0",
+  "description": "My personal blog (final HTML formatting)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MelnikovSergey"
+  },
+  "keywords": [
+    "project",
+    "assembly",
+    "projectassembly"
+  ],
+  "author": "Melnikov Sergey",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-html-replace": "^1.6.2",
+    "gulp-jekyll": "0.0.0",
+    "gulp-replace": "^1.0.0"
+  },
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
